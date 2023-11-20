@@ -5,6 +5,7 @@ A repository that contains training and execise code for Go.
 ## Useful notes
 
 To run: `go run .`
+To build: `go build .` -> Build to binary, it can then be executed directly
 Help: `go help`
 
 `https://pkg.go.dev/` -> Search for Go packages
