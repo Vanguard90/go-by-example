@@ -9,3 +9,5 @@ To build: `go build .` -> Build to binary, it can then be executed directly
 Help: `go help`
 
 `https://pkg.go.dev/` -> Search for Go packages
+
+`:=` -> Declare and assign value
