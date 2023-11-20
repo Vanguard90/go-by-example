@@ -6,3 +6,5 @@ A repository that contains training and execise code for Go.
 
 To run: `go run .`
 Help: `go help`
+
+`https://pkg.go.dev/` -> Search for Go packages
