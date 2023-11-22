@@ -11,3 +11,5 @@ Help: `go help`
 `https://pkg.go.dev/` -> Search for Go packages
 
 `:=` -> Declare and assign value
+
+To create an empty slice with non-zero length, use the builtin make!
